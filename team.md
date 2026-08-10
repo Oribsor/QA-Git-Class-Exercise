@@ -6,3 +6,4 @@
 | # | Name | GitHub Username | Favorite Testing Type |
 |---|------|-----------------|----------------------|
 | 1 | (Instructor) | your-instructor | Exploratory |
+| 2 | Ori Besor | Oribsor | Exploratory |
