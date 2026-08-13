@@ -7,3 +7,13 @@
 |---|------|-----------------|----------------------|
 | 1 | (Instructor) | your-instructor | Exploratory |
 | 2 | Ori Besor | Oribsor | Exploratory |
+
+
+
+
+
+
+
+
+
+| 12 | Angela Gorohovsky | Angelagoroh | GUI |
