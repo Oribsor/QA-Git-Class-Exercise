@@ -7,3 +7,5 @@
 |---|------|-----------------|----------------------|
 | 1 | (Instructor) | your-instructor | Exploratory |
 | 2 | Ori Besor | Oribsor | Exploratory |
+| 3 | Ori Bsor | Oribsor | Exploratory |
+
